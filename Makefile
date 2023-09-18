@@ -22,4 +22,4 @@ jupyter-clean:
 gifs: dirs images/vancouver_bike_map.gif
 
 images/vancouver_bike_map.gif: output/vancouver_bike_map_*.png
-	convert -delay 75 -loop 0 output/vancouver_bike_map_*.png images/vancouver_bike_map.gif
+	convert -delay 75 output/vancouver_bike_map_*.png -delay 500 `ls -1 output/vancouver_bike_map_*.png | tail -n 1` -loop 0 images/vancouver_bike_map.gif

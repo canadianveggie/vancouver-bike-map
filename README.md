@@ -11,6 +11,7 @@ Loads the highway system maps and EV fast chargers and determines which highways
 You need to have python installed locally.
 
 `make install`
+
 `make jupyter`
 
 This will open up a Jupyter notebook that will run and analyze the data.
