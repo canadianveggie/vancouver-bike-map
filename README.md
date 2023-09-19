@@ -2,8 +2,6 @@
 
 Visualizing Vancouver's bike network over time.
 
-Loads the highway system maps and EV fast chargers and determines which highways are traversable by EV while fast charging.
-
 ![Vancouver's bike map](images/vancouver_bike_map.gif)
 
 ## Running locally
