@@ -20,4 +20,6 @@ This will open up a Jupyter notebook that will run and analyze the data.
 
 ## Data Sources
 
-* City of Vancouver [Bikeways](https://opendata.vancouver.ca/explore/dataset/bikeways/)
+* [City of New Westminster](https://opendata.newwestcity.ca/search?q=Bikeways)
+* [City of Surrey](https://data.surrey.ca/dataset/bike-routes)
+* [City of Vancouver](https://opendata.vancouver.ca/explore/dataset/bikeways/)
